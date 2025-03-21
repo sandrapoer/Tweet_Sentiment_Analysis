@@ -7,11 +7,11 @@ This project fine-tuned the multilingual language model XLM-RoBERTa-base for sen
 Despite resource constraints, the model demonstrated the ability to generalize across multiple languages and identified key challenges in sentiment detection, including sarcasm, negation, and cultural nuance.
 
 **Key Features**
-Fine-tuned xlm-roberta-base on multilingual tweets
-Classification into 3 sentiment classes: positive, neutral, negative
-Evaluation using accuracy & qualitative analysis
-Visualization of embeddings over training epochs (TensorBoard)
-Insights into cross-lingual performance and sentiment clustering
+- Fine-tuned xlm-roberta-base on multilingual tweets
+- Classification into 3 sentiment classes: positive, neutral, negative
+- Evaluation using accuracy & qualitative analysis
+- Visualization of embeddings over training epochs (TensorBoard)
+- Insights into cross-lingual performance and sentiment clustering
 
 Dataset: https://huggingface.co/FacebookAI/xlm-roberta-base
 
